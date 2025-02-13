@@ -4,7 +4,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/cyb3r-girl/Logica-de-programacion-sumergete-en-la-programacion-con-JavaScript?color=purple&label=Repo%20Size&style=flat-square)
 ![GitHub contributors](https://img.shields.io/github/contributors/cyb3r-girl/Logica-de-programacion-sumergete-en-la-programacion-con-JavaScript?color=red&label=Contributors&style=flat-square)
-![GitHub version](https://img.shields.io/github/release/cyb3r-girl/Logica-de-programacion-sumergete-en-la-programacion-con-JavaScript?color=blue&label=Version&style=flat-square)
+![Stars](https://img.shields.io/github/stars/cyb3r-girl/Logica-de-programacion-sumergete-en-la-programacion-con-JavaScript?color=yellow&label=Stars&style=flat-square)
 
 ## 📌 Índice
 
