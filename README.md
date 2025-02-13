@@ -7,6 +7,7 @@
 ![Stars](https://img.shields.io/github/stars/cyb3r-girl/Logica-de-programacion-sumergete-en-la-programacion-con-JavaScript?color=yellow&label=Stars&style=flat-square)
 ![Forks](https://img.shields.io/github/forks/cyb3r-girl/Logica-de-programacion-sumergete-en-la-programacion-con-JavaScript?color=blue&label=Forks&style=flat-square)
 
+
 ## 📌 Índice
 
 - [📜 Descripción](#-descripción)
