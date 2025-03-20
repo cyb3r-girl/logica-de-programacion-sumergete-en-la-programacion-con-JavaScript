@@ -2,14 +2,15 @@
 
 ![Portada](https://blog.interfell.com/hubfs/JavaScript%20un%20lenguaje%20de%20programaci%C3%B3n.jpg) <!-- Agrega una imagen representativa -->
 
+## 🏅 Insignias
 ![GitHub repo size](https://img.shields.io/github/repo-size/cyb3r-girl/Logica-de-programacion-sumergete-en-la-programacion-con-JavaScript?color=purple&label=Repo%20Size&style=flat-square)
 ![GitHub contributors](https://img.shields.io/github/contributors/cyb3r-girl/Logica-de-programacion-sumergete-en-la-programacion-con-JavaScript?color=red&label=Contributors&style=flat-square)
 ![Stars](https://img.shields.io/github/stars/cyb3r-girl/Logica-de-programacion-sumergete-en-la-programacion-con-JavaScript?color=yellow&label=Stars&style=flat-square)
 ![Forks](https://img.shields.io/github/forks/cyb3r-girl/Logica-de-programacion-sumergete-en-la-programacion-con-JavaScript?color=blue&label=Forks&style=flat-square)
 
+---
 
 ## 📌 Índice
-
 - [📜 Descripción](#-descripción)
 - [📌 Estado del Proyecto](#-estado-del-proyecto)
 - [🎯 Desafíos y Soluciones](#-desafíos-y-soluciones)
@@ -17,20 +18,20 @@
 - [🛠️ Tecnologías Utilizadas](#️-tecnologías-utilizadas)
 - [👥 Contribuyentes](#-contribuyentes)
 - [📝 Licencia](#-licencia)
+  
+---
 
-
-## 📜 Descripción
-
+## 📖 Descripción
 Este repositorio contiene las soluciones de los desafíos propuestos en el curso **"Lógica de Programación: Sumérgete en la Programación con JavaScript"**. Aquí encontrarás ejercicios que fortalecen habilidades en lógica de programación, estructuras de control, manipulación de datos y más. 🧠💡
 
+---
 
-## 📌 Estado del Proyecto
+## 🚀 Estado del Proyecto
+✅ **Completado** - Estos son todos los desafíos vistos en el curso.
 
-✅ **Terminado** - Estos son todos los desafíos vistos en el curso.
-
+---
 
 ## 🎯 Desafíos y Soluciones
-
 Cada desafío cuenta con su propia carpeta o archivo correspondiente, con una explicación breve y su respectiva solución en código JavaScript.
 
 🔹 **Ejemplo de desafío:**
@@ -48,30 +49,25 @@ Cada desafío cuenta con su propia carpeta o archivo correspondiente, con una ex
 
 📌 **Para ver la lista completa de desafíos, revisa el repositorio.**
 
+---
 
 ## 📂 Acceso al Repositorio
-
 🔗 Puedes acceder al código fuente aquí: [Repositorio en GitHub](https://github.com/cyb3r-girl/Logica-de-programacion-sumergete-en-la-programacion-con-JavaScript)
 
+---
 
 ## 🛠️ Tecnologías Utilizadas
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)  ![Git & GitHub](https://img.shields.io/badge/Git%20&%20GitHub-Version%20Control-black?logo=github)  ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?logo=visualstudiocode)
 
-- **JavaScript** ⚡
-- **Git & GitHub** 🌍
-- **VS Code** 🖥️
+---
 
+## 💻 Desarrolladores del Proyecto  
+👩🏻‍💻 **[Astrid Carolina Quisel Urrutia](https://github.com/cyb3r-girl)**
 
-## 👥 Contribuyentes
+---
 
-Agradecimientos especiales a quienes han colaborado en este repositorio:
-
-- [Astrid Carolina Quisel Urrutia](https://github.com/cyb3r-girl) 👩🏻‍💻
-- ¡Tú puedes ser el próximo! ✨ (Haz un fork y contribuye)
-
-
-## 📝 Licencia
-
-Este proyecto está bajo la licencia **MIT**. Puedes ver más detalles en el archivo [LICENSE](LICENSE).
+## 📜 Licencia
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.  
 
 ---
 
