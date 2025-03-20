@@ -52,7 +52,8 @@ Cada desafío cuenta con su propia carpeta o archivo correspondiente, con una ex
 ---
 
 ## 📂 Acceso al Repositorio
-🔗 Puedes acceder al código fuente aquí: [Repositorio en GitHub](https://github.com/cyb3r-girl/Logica-de-programacion-sumergete-en-la-programacion-con-JavaScript)
+Puedes acceder al código fuente aquí:
+🔗 [Desafíos de Lógica de Programación: sumérgete en la programación con JavaScript](https://github.com/cyb3r-girl/Logica-de-programacion-sumergete-en-la-programacion-con-JavaScript)
 
 ---
 
